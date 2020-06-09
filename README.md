@@ -15,7 +15,7 @@ Your application should do the following:
  
  -> A student can enroll in the following courses: History 101 Mathematics 101 English 101 Chemistry 101 Computer Science 101.
  
- -> Each course costs $600 to enroll.
+ -> Each course costs Rs600/- to enroll.
  
  -> The student should be able to view their balance and pay the tuition.
  
